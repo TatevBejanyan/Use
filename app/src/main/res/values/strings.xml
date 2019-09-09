@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="users">Users</string>
+    <string name="name">Name</string>
+    <string name="state">State</string>
+    <string name="state_and_city">State and City</string>
+    <string name="phone_number">Phone Number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gender">Gender</string>
+    <string name="age">age</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="email">email</string>
+    <string name="read">Read</string>
+</resources>
